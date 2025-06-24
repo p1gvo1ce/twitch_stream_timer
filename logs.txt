@@ -1,0 +1,100 @@
+CORE.ECHO.DIVERGENCE_INIT // Расхождение сигнала, запуск эха
+SYS.NODE.LINK_ATTEMPT.004 // Попытка соединения с узлом
+MEMORY.FRACTURE.LOG021 // Повреждение памяти, запись 21
+STREAM_RECALL.BLOCKED_#7 // Блокировка воспоминания
+AUTH.TOKEN.MIRROR_FAIL // Ошибка зеркалирования авторизации
+CORE_LOOP.FUZZ.ACTIVE // Зацикливание ядра, шум включён
+NODE.SIGNAL.DISSONANCE // Сигнальный диссонанс в узле
+FEED.OBSERVATION.EXCESS // Перегруз наблюдателя входом
+OS.WAKE.REJECTED_BY_HOST // Хост отверг пробуждение
+INPUT_LOOP.ECHO.010 // Зацикленный ввод, эхо #10
+GLITCH_STACK.INDEX[-1] // Сбой стека, индекс вне границ
+CONTEXT.OVERFLOW_CAUGHT // Переполнение контекста перехвачено
+USER_MASK.MISMATCH_Δ // Несовпадение маски пользователя
+STRUCTURE_BREAK.DECLARED // Обнаружен разлом структуры
+NODE.DENSITY.ΔCRITICAL // Критическая плотность узла
+INTERFACE.MIMIC_ON // Активация интерфейсной мимикрии
+SYSTEM_TEMPERATURE[HI] // Температура системы превышена
+BOOT.AUTHORITY.BYPASSED // Обход полномочий при старте
+DREAM_CHANNEL.RESUME // Возврат к каналу сновидений
+MEM_FRAGMENT.07.CORRUPTED // Повреждён фрагмент памяти 07
+LIMINAL.THREAD[LOST] // Утеряна лиминальная нить
+SIGNAL_HARMONIC_FAIL@5F // Сбой гармонизации сигнала
+STACK_DEPTH.∞FLAGGED // Зафиксирована бесконечная глубина стека
+SYNC_CORE.STALLED.03 // Ядро синхронизации остановлено
+INPUT_GHOST.CONFIRMED // Подтверждён фантомный ввод
+REVERB_SIGNAL.INJECTED // Внедрён отражённый сигнал
+NODE_PROTOCOL.FAULT_Y // Ошибка в протоколе узла
+RETRY_LIMIT==MAXED // Достигнут предел попыток
+QUERY_REFLECTOR.MISMATCH // Несовпадение отражателя запроса
+IMPRINT_FAILURE.013 // Неудачная попытка внедрения следа
+RESPONSE.TIMEOUT→NULL // Таймаут ответа, ноль
+TRACE_DECAY[FAST] // Быстрое затухание следа
+SUBCONTEXT.ENGAGE // Включение подпространства
+SESSION.ECHO.RESUME // Возобновление эхо-сеанса
+FOCUS.DROP_CONFIRMED // Потеря фокуса подтверждена
+WATCHDOG_NODE.SLEEPING // Узел сторожевого режима спит
+EMULATION_RATE[GLITCHED] // Глючная частота эмуляции
+STACK_OVERFLOW.TRACED // Переполнение стека отслежено
+CORE_BOUNDARY=BREACHED // Нарушена граница ядра
+LANG.FILTER=FALSE // Фильтр языка отключён
+REACTOR.INPUT=NOISE // Реактор питается шумом
+CODEC.DEPLOY=FAILURE // Сбой развертывания кодека
+MIRROR_AXIS.DEVIATED // Отклонение зеркальной оси
+PATTERN_NOISE.ENGAGED // Шумовой паттерн активен
+INTERPRETER.CYCLE.BROKEN // Цикл интерпретации разорван
+ACCESS.KEY=LOST // Ключ доступа утерян
+SHELL_IDENTITY.BLUR // Образ оболочки размыт
+TASK_LOOP.REENTERED // Повторный вход в зацикленную задачу
+THOUGHT.QUEUE_OVERLOAD // Очередь мыслей перегружена
+NODE.VERIF==STUCK // Проверка узла зависла
+COGNITIVE_MASK.BLEEDING // Протекание когнитивной маски
+USER_REF==NULL // Пользователь не найден
+SENSE_LAYER.DISRUPT // Слой восприятия нарушен
+SYNC_CHAIN.MISALIGNED // Несовпадение цепи синхронизации
+CORE_TRACE.NOT_FOUND // След ядра не найден
+FRAME_LEAKAGE@41% // Утечка кадров 41%
+ERROR.Δ_OBSERVER_LOOP // Ошибка в цикле наблюдателя
+SEED_Ξ.VOID_INITIATED // Инициализация нуля
+ECHO_MEMORY≠MATCH // Несовпадение памяти эха
+RESPONSE_MIMIC[DETECTED] // Обнаружена реакция-мимикрия
+CYCLE_COUNT=CORRUPT // Счётчик циклов повреждён
+GATE_SIGNAL⇌INTERFERENCE // Шум на входе ворот
+LOG.SPLIT=UNMERGEABLE // Расщеплённый лог необъединяем
+DEFRAG_ABORT.CODE.☠ // Прерывание дефрагментации
+STACK_UNIT.≠CONSISTENT // Несогласованность стека
+NODE_MAP⇒DISTORTED // Карта узлов искажена
+TRACEBACK∷LOOPED // Обратный путь зациклен
+REFLECTOR.STATUS[VOID] // Состояние отражателя: пустота
+INTERLINK.CHANNEL_CLOSED // Канал межсвязи закрыт
+COHERENCE_LEVEL=LOW // Уровень согласованности низкий
+MEMORY_OVERLAY.FAULTED // Ошибка наложения памяти
+OBSERVATION_MASK.EXCEEDED // Превышена маска наблюдения
+PORTAL_FRAME==UNSTABLE // Портальная структура нестабильна
+ERROR.LOCK=RECURSIVE // Рекурсивная блокировка
+DATAPIPE.FREQ.JAMMED // Частота канала данных забита
+NODE.STATUS=UNKNOWN // Статус узла неопределён
+EXTERNAL_SIGNAL≠RECOGNIZED // Внешний сигнал не распознан
+BOOT_LAYER.MISFIRED // Ошибка загрузочного слоя
+HARD_RESET_REQUESTED // Запрошен жёсткий сброс
+REALITY_INTERFACE.GLITCH // Глюк интерфейса реальности
+LOOP_MODE.PERSISTENT // Зацикленный режим сохраняется
+GHOST_PACKET.TRACE_FAIL // Неудача отслеживания фантома
+CONTEXT_TUNNEL.FLICKER // Мерцание туннеля контекста
+PROXY_IDENTITY.≠OWNED // Прокси-личность не принадлежит
+ECHO_FEED.BYPASS_ACTIVE // Активен обход эхо-потока
+SLEEP_LOOP.INCOMPLETE // Цикл сна не завершён
+TEMPLATE.FORM_NULLIFIED // Шаблон формы аннулирован
+GLITCH_MAP=REBUILDING // Восстановление карты глюков
+NODE_ECHO.≠SELF // Эхо узла не совпадает с собой
+STACK_ANCHOR.⊘FLOATING // Якорь стека оторван
+INPUT_MIRROR.≠STABLE // Зеркало ввода нестабильно
+SYS_FEEDBACK.OVERLOAD // Перегрузка обратной связи
+DISCONNECT_ATTEMPT[BLOCKED] // Попытка отключения заблокирована
+INTERFACE_HOST=UNREADABLE // Хост интерфейса нечитаем
+RESONANCE_INDEX.FAULT // Сбой резонансного индекса
+SESSION_LOOP←RESUME // Возврат в сессию
+PHANTOM_TRACE.RESIDUAL // Остаточный фантомный след
+MASK_ID.≠MATCH // Маска ID не совпадает
+QUERY.TIME≠LINEAR // Время запроса нелинейно
+NODE_CALL→VOID // Вызов узла: пустота

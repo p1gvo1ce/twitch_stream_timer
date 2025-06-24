@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OBS Overlay</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="countdown"
+     style="color: {{ countdown_color }};
+            font-family: '{{ countdown_font }}';
+            font-size: {{ countdown_size }}px;">
+</div>
+    <div id="log"
+     style="color: {{ log_color }};
+            font-family: '{{ log_font }}';
+            font-size: {{ log_size }}px;">
+</div>
+
+    <script>
+        const countdownEl = document.getElementById('countdown');
+        const logEl = document.getElementById('log');
+        const targetTime = "{{ countdown_target }}";
+
+        function updateCountdown() {
+            const now = new Date();
+            const [h, m, s] = targetTime.split(':').map(Number);
+            let target = new Date(now);
+            target.setHours(h, m, s, 0);
+            if (target < now) target.setDate(target.getDate() + 1);
+
+            const diff = target - now;
+            const minutes = String(Math.floor(diff / 60000) % 60).padStart(2, '0');
+            const seconds = String(Math.floor(diff / 1000) % 60).padStart(2, '0');
+
+            countdownEl.textContent = `${minutes}:${seconds}`;
+        }
+
+        async function updateLog() {
+            const res = await fetch("/logs");
+            const data = await res.json();
+            const line = document.createElement("div");
+            line.textContent = data.line;
+            logEl.appendChild(line);
+            logEl.scrollTop = logEl.scrollHeight;
+        }
+
+        setInterval(updateCountdown, 1000);
+        setInterval(updateLog, 4000);
+    </script>
+</body>
+</html>
